@@ -5,6 +5,7 @@
 ## Build Setup
 
 ``` bash
+你是不是想知道这玩意是嘎哈得？就是给vue加上echarts的一个图标，老毕了！
 # install dependencies
 npm install
 
